@@ -1,0 +1,7 @@
+13:44:12 **** Build of configuration Default for project UART_RX_TX ****
+make -j8 all 
+make: *** No rule to make target 'all'.  Stop.
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+13:44:12 Build Failed. 1 errors, 0 warnings. (took 231ms)
+
