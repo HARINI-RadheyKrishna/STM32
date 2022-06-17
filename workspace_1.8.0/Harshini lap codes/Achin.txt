@@ -1,0 +1,1 @@
+Using Harshini's lap to clone and check if all the files from this local are stored into the remote repository. 
